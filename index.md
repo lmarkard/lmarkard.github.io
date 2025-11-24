@@ -16,10 +16,12 @@ title: Home
 
 # Find me
 
-<div id="demoMap" style="height:250px"></div>
-<script src="assets/js/OpenLayers.js"></script>
-<script>
-  map = new OpenLayers.Map("demoMap");
-  map.addLayer(new OpenLayers.Layer.OSM());
-  map.zoomToMaxExtent();
-</script>
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD4iE2xVSpkLLOXoyqT-RuPwURN3ddScAI&q=Neurophysio+Oerlikon,Zurich+Switzerland">
+</iframe>
