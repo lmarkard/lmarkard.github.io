@@ -13,3 +13,15 @@ title: Home
     <img class="thumbnail" src="{{ '/assets/img/lmarkard.jpeg' | relative_url }}">
   </div>
 </div>
+
+# Find me
+
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?q=Neurophysio+Oerlikon,Zurich+Switzerland">
+</iframe>
