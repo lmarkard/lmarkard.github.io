@@ -11,6 +11,5 @@ title: Home
 
   <div class="thumbnail center">
     <img class="thumbnail" src="{{ '/assets/img/lmarkard.jpeg' | relative_url }}">
-    </a>
   </div>
 </div>
